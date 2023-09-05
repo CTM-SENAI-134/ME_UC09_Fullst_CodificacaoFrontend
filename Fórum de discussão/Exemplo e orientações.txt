@@ -1,0 +1,20 @@
+Neste fórum, será preciso que você relate, ao mínimo, uma experiência positiva e uma negativa
+no uso de qualquer site de sua preferência. Lembre-se que nestes relatos, é importante destacar
+quais princípios você identificou que o site atingiu, ou não.
+
+Procure dar um destaque para o que é o site que você irá relatar, e descrever como foi a sua
+experiência (seja positiva ou negativa) do uso da mesma.
+
+
+Os tópicos a serem utilizados como princípios, são os seguintes:
+
+ - Design interativo (Analisar a interação do usuário com o sistema, como o clique de um botão, por exemplo)
+ - Usabilidade (A facilidade do uso da ferramenta para o usuário)
+ - Funcionalidade
+ - Legibilidade
+ - Intuitividade
+ - Minimalismo X Poluído
+ - Cores  
+ - Friendly (Experiência amigável que não seja incomoda para o usuário)
+ - Componentes de layout e informações organizadas
+ - Técnicas de leitura
