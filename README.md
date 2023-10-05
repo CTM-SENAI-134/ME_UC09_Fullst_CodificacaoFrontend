@@ -12,11 +12,11 @@ Com o VSCODE aberto criar um arquivo INDEX.HTML
 Após isso clicamos no “!” para ele inserir o código HTML inicial
 Em seguida trocamos a linguagem para pt-br ,e o TITLE será LOGIN
 
-Após isso dentro Body criamos a tag '''<form> </form>''' ,
+Após isso dentro Body criamos a tag ``<form> </form>`` ,
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/ff97d7cc-048a-45ef-a1e5-d69f04387e14)
 
-colocamos a tag A tag <h1> </h1> com titulo de LOGIN
+colocamos a tag A tag ``<h1> </h1>`` com titulo de LOGIN
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/71460f93-9775-4a20-85f5-f8a8981fb511)
 
@@ -27,8 +27,8 @@ Após isso inserimos a tag <button>
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/33e3c84d-7a63-4234-aa73-368699aaf0ee)
 
-Os campos devem possuir um rótulo use a tag <label> 
-que possui um atributo que direciona para o tipo de input <label for=”id do input”>
+Os campos devem possuir um rótulo use a tag ``<label>``
+que possui um atributo que direciona para o tipo de input ``<label for=”id do input”>``
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/44b5888e-3381-4490-9c0a-d27b866a5c06)
 
@@ -41,7 +41,7 @@ Criar arquivo style.css
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/eaf15f6a-359e-46fa-aad1-5e1ab4353586)
 
 
-Voltar no arquivo .html e cria a tag <link> para indicar onde está arquivo style.css
+Voltar no arquivo .html e cria a tag ``<link>`` para indicar onde está arquivo style.css
 A tag href mostra qual é o caminho de referência para o arquivo css
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/ad60a0ac-227f-4907-bead-afcb9b5e7c7a)
@@ -71,7 +71,7 @@ Criaremos o arquivo scripty.js
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/b46bbb27-963e-4e0d-926e-4712a064e50b)
 
-Colocaremos a tag script apontando para o arquivo que nos criamos script.js no final do </body> ( entre )
+Colocaremos a tag script apontando para o arquivo que nos criamos script.js no final do ``</body>`` ( entre )
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/52e7fa80-cb2b-49fb-a97d-affd29a0ffc6)
 
@@ -87,7 +87,7 @@ Criar uma função dentro do javascript  com emailInput.value e senhaInput como 
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/a94a66b1-db1c-429b-bb2f-d0d5af5a157c)
 
-Voltar no html e colocar onclick e type=button dentro da tag <button</button>
+Voltar no html e colocar onclick e type=button dentro da tag ``<button</button>``
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/4a04ac72-e4e3-4b3d-b578-739b6b65070d)
 
