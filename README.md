@@ -91,7 +91,7 @@ Voltar no html e colocar onclick e type=button dentro da tag <button</button>
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/4a04ac72-e4e3-4b3d-b578-739b6b65070d)
 
-Criar a segunda página, pagina.html
+Criar em segunda página, pagina.html
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/60d5f1fa-5331-44bb-b4be-ba584952f9cd)
 
