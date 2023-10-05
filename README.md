@@ -23,7 +23,7 @@ colocamos a tag A tag ``<h1> </h1>`` com titulo de LOGIN
 Após isso inserir 2 inputs
 Um deles para a entrada do usuário que será o email ,
 E outro <input> que vai ser do tipo “password” 
-Após isso inserimos a tag <button> 
+Após isso inserimos a tag ``<button>``
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/33e3c84d-7a63-4234-aa73-368699aaf0ee)
 
