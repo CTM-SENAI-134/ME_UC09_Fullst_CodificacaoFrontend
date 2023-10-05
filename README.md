@@ -12,7 +12,7 @@ Com o VSCODE aberto criar um arquivo INDEX.HTML
 Após isso clicamos no “!” para ele inserir o código HTML inicial
 Em seguida trocamos a linguagem para pt-br ,e o TITLE será LOGIN
 
-Após isso dentro Body criamos a tag <form> </form> ,
+Após isso dentro Body criamos a tag ''<form> </form>'' ,
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC09_Fullst_CodificacaoFrontend/assets/144062335/ff97d7cc-048a-45ef-a1e5-d69f04387e14)
 
